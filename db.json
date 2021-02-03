@@ -1,28 +1,90 @@
 {
-    "bg": "https://cdn.pixabay.com/photo/2019/11/08/20/54/ring-4612457_960_720.jpg",
+    "bg": "https://images2.alphacoders.com/172/172372.jpg",
     "title": "Quiz CSS da Alura",
-    "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+    "description": "Teste os seus conhecimentos sobre O Senhor dos Anéis e vamos ver quantos exércitos você irá derrotar",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
+        "image": "https://media.giphy.com/media/WJEtSz2gobd6M/giphy.gif",
+        "title": "Como se chama o protagonista principal da história?",
         "description": "Essa é pra aquecer",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Gandalf, O Cinzento",
+          "Aragorn II",
+          "Frodo Bolseiro",
+          "Legolas, Folha Verde"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://media.giphy.com/media/yUSLvx5GW5YgU/giphy.gif",
+        "title": "Quem era o Guardião conhecido como Passolargo encontrado pelos Hobbits?",
+        "description": "Um verdadeiro Rei",
+        "answer": 1,
+        "alternatives": [
+           "Sauron",
+           "Aragorn",
+           "Gimli",
+           "Saruman, o Branco"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/q7kofYLObTVUk/giphy.gif",
+        "title": "Quem é o melhor amigo de Frodo?",
+        "description": "Amigo Fiel",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Samwise Gamgee, o Sam",
+           "Pippin",
+           "Bilbo Bolseiro",
+           "Merry"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/KdyT7uHPVyLe0/giphy.gif",
+        "title": "Quem é o principal Antagonista da história?",
+        "description": "O Senhor do Escuro",
+        "answer": 2,
+        "alternatives": [
+           "Balrog de Moria",
+           "Gollum",
+           "Sauron",
+           "Saruman, o Branco"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/S6sZaHdqsGYFO/giphy.gif",
+        "title": "Qual ser luta contra Gandalf na batalha épica de Moria?",
+        "description": "...Sombras e Chamas",
+        "answer": 1,
+        "alternatives": [
+           "Gollum",
+           "Balrog",
+           "Sauron",
+           "Saruman, o Branco"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/ZiK1I0ceU2FMc/giphy.gif",
+        "title": "Qual principal poder O Um Anel concede ao seu portador?",
+        "description": "A respota pode está na sua frente ou não!",
+        "answer": 3,
+        "alternatives": [
+           "Vôo",
+           "Super-força",
+           "Vida Eterna",
+           "Invisibilidade"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/zGnnFpOB1OjMQ/giphy.gif",
+        "title": "Como o grupo de heróis fica conhecido em Valfenda?",
+        "description": "...essa é fácil!",
+        "answer": 1,
+        "alternatives": [
+           "Vingadores",
+           "A Sociedade do Anel",
+           "Os Senhores dos Anéis",
+           "Nazgûls"
         ]
       }
     ],
